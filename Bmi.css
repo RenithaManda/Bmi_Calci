@@ -1,0 +1,28 @@
+
+.main{
+    border: 2px solid black;
+    width:400px;
+    height:500px;
+    margin:auto;
+    margin-bottom: 30px;
+    
+}
+input{
+    display:grid;
+    margin:auto;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    height: 30px;
+    font-weight: 600;
+}
+.result{
+    border:2px solid black;
+    width:200px;
+    height: 70px;
+    margin: auto;
+    margin-top:20px;
+    padding:10px;
+    font-weight: 700;
+    overflow: hidden;
+}
+
